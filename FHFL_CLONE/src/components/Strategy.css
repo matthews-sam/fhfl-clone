@@ -1,0 +1,53 @@
+.Strategy{
+    background-color: var(--alt-background);
+}
+
+.Strategy .the-boxed-content-area {
+    gap: 50px;
+    display: flex;
+}
+
+.Strategy-img{
+    width: 50%;
+    object-fit: cover;
+
+}
+
+.Strategy-p{
+    font-size: 16px;
+    text-align: justify;
+    margin-bottom: 24px;
+}
+
+.Strategy-content{
+    width: 50%;
+    padding-left: 15px;
+}
+
+.Strategy-h2{
+    font-size: 28px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--text);
+    margin-bottom: 19.2px;
+}
+
+.Strategy-link{
+    color: var(--primary-accent);
+    text-transform: uppercase;
+    font-weight: 500;
+    border-radius: 0;
+    text-decoration: none;
+    list-style: none;
+    border-width: 0.9px;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 176px;
+    height: 50px;    
+}
+
+.Strategy-link-i{
+    margin-left: 12.8px;
+}

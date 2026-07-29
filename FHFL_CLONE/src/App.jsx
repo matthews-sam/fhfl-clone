@@ -3,6 +3,7 @@ import Navbar from './components/Navbar.jsx'
 import Hero from './components/Hero.jsx'
 import MoreAbout from './components/MoreAbout.jsx'
 import WhatWeDo from './components/WhatWeDo.jsx'
+import Strategy from './components/Strategy.jsx'
 import './App.css'
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <MoreAbout />
       <WhatWeDo />
+      <Strategy />
     </div>
   )
 }
