@@ -8,7 +8,9 @@ const Hero = () => {
                 <source src={heroVideo} type="video/mp4" />
             </video>
             <div className="overlay"></div>
-            <h1 className="hero-title">INVESTING IN AFFORDABLE HOUSING, CHANGING LIVES</h1>
+            <div className="the-boxed-content-area">
+                <h1 className="hero-title">INVESTING IN AFFORDABLE HOUSING, CHANGING LIVES</h1>
+            </div>
         </section>
      );
 }

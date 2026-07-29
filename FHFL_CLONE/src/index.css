@@ -18,3 +18,10 @@ body{
   color: var(--text);
   font-family: 'Poppins', 'sans-serif';
 }
+
+.the-boxed-content-area{
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
