@@ -8,6 +8,7 @@ import Explore from './components/Explore.jsx'
 import Partners from './components/partners.jsx'
 import LogoStrip from './components/LogoStrip.jsx'
 import Join from './components/join.jsx'
+import AffordableHomes from './components/AffordableHomes.jsx'
 import './App.css'
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Partners />
       <LogoStrip />
       <Join />
+      <AffordableHomes />
     </div>
   )
 }
