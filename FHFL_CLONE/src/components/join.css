@@ -1,0 +1,56 @@
+.join{
+    background-color: var(--alt-background);
+}
+
+.join-row{
+    display: flex;
+    gap: 15px;
+}
+
+.join-row-h1{
+    color: var(--secondary-accent);
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 19.2px;    
+}
+
+.join-row-p{
+    color: var(--text);
+    margin-bottom: 24px;
+}
+
+.join-row-l{
+    padding-top: 30px;
+    width: 50%;
+    position: relative;
+}
+
+.join-row-form{
+    width: 471.6px;
+    position: relative;
+}
+
+.join-row-l-input{
+    padding-top: 6px;
+    padding-left: 17.6px;
+    width: 471.6px;
+    height: 52px;
+    border: 0.8px solid var(--secondary-accent);
+}
+
+.join-row-button{
+    width: 141.5px;
+    position: absolute;
+    top: 3.2px;
+    bottom: 2.4px;
+    right: 2.08px;
+    background-color: var(--secondary-accent);
+    color: white;
+}
+
+.join-row-r{
+    background-size:cover;
+    background-position: center;
+    min-height: 353.6px;
+    width: 50%;
+}

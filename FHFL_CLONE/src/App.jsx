@@ -7,6 +7,7 @@ import Strategy from './components/Strategy.jsx'
 import Explore from './components/Explore.jsx'
 import Partners from './components/partners.jsx'
 import LogoStrip from './components/LogoStrip.jsx'
+import Join from './components/join.jsx'
 import './App.css'
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Explore />
       <Partners />
       <LogoStrip />
+      <Join />
     </div>
   )
 }
