@@ -5,6 +5,7 @@ import MoreAbout from './components/MoreAbout.jsx'
 import WhatWeDo from './components/WhatWeDo.jsx'
 import Strategy from './components/Strategy.jsx'
 import Explore from './components/Explore.jsx'
+import Partners from './components/partners.jsx'
 import './App.css'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <WhatWeDo />
       <Strategy />
       <Explore />
+      <Partners />
     </div>
   )
 }
