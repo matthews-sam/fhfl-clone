@@ -4,6 +4,7 @@ import Hero from './components/Hero.jsx'
 import MoreAbout from './components/MoreAbout.jsx'
 import WhatWeDo from './components/WhatWeDo.jsx'
 import Strategy from './components/Strategy.jsx'
+import Explore from './components/Explore.jsx'
 import './App.css'
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <MoreAbout />
       <WhatWeDo />
       <Strategy />
+      <Explore />
     </div>
   )
 }

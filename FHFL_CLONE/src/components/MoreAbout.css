@@ -5,6 +5,7 @@
 }
 
 .more-about-h2{
+    color: var(--primary-accent);
     text-align: left;
     width: 95%;
     font-size: 40px;
@@ -38,12 +39,13 @@
 }
 
 .more-about-p-l{
+    color: var(--text);
     margin-bottom: 16px;
 }
 
 .more-about-p-r{
     font-weight: 700;
-    color: var(--primary-accent);
+    color: var(--text);
 }
 
 .more-about-link{
