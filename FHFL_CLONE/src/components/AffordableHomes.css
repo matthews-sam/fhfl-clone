@@ -34,3 +34,20 @@
     display: block;
     object-fit: cover;
 }
+
+.see-more-link{
+    grid-column: 1 / -1;
+    width: 666px;
+    height: 50px;
+    border: 1.5px solid var(--primary-accent);
+    color: var(--primary-accent);
+    margin: 48px auto 0;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.see-more-link i{
+    padding-left: 20px;
+}

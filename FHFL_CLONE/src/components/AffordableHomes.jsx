@@ -45,9 +45,8 @@ const AffordableHome = () => {
                             Oyo Estate
                         </p>
                     </a>
-                    <a href="#">SEE MORE HOMES</a>
-                    
                 </div>
+                <a href="#" className='see-more-link'>SEE MORE HOMES<i className="fa fa-arrow-right-long"></i></a>
             </div>
         </section>
      );
