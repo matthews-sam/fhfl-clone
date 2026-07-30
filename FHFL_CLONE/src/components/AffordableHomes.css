@@ -9,7 +9,7 @@
 }
 
 .AffordableHomes-content{
-    padding-top: 80px;
+    padding-top: 55px;
 }
 
 .AffordableHomes-h1{
@@ -25,7 +25,7 @@
     text-align: center;
     font-size: 20px;
     height: 121px;
-    padding: 20px;
+    padding: 30px;
 }
 
 .state-images{
@@ -46,6 +46,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 25px;
 }
 
 .see-more-link i{
